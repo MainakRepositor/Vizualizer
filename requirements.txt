@@ -4,3 +4,4 @@ jupyterlab==2.2.6
 bokeh==2.2.1
 plotly==4.10.0
 kaleido
+plotly_express==0.4.1

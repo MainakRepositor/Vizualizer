@@ -106,4 +106,4 @@ if chart_select == 'Piechart':
     except Exception as e:
         print(e)
         
-st.sidebar.write('Made by MAINAK CHAUDHURI')
+st.sidebar.markdown('Made by MAINAK CHAUDHURI')
